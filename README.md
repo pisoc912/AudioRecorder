@@ -20,7 +20,7 @@ To get started with the frontend, follow these steps:
    ```
    npm install
    ```
-   
+
 4. Set .env:
    ```
    BASE_URL_API=http://localhost:8000
@@ -48,6 +48,7 @@ To get started with the frontend, follow these steps:
 - Material-UI 5.14.7
 - axios 1.5.0
 - react-router-dom 6.15.0
+- react-media-recorder@1.6.5
 
 ## Django Backend
 
