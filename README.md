@@ -20,14 +20,19 @@ To get started with the frontend, follow these steps:
    ```
    npm install
    ```
+   
+4. Set .env:
+   ```
+   BASE_URL_API=http://localhost:8000
+   ```
 
-4. Start the development server:
+5. Start the development server:
 
    ```
    npm start
    ```
 
-5. Access the frontend in your web browser at <http://localhost:3000>
+6. Access the frontend in your web browser at <http://localhost:3000>
 
 #### Features
 
